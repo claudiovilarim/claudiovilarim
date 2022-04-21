@@ -26,3 +26,9 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=claudiovilarim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+### Things I code with
+
+<i class="devicon-php-plain colored"></i> 
+<i class="devicon-angularjs-plain colored"></i>
+          
+
