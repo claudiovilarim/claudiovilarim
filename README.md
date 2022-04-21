@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ### Ferramentas e Tecnologias
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 
-<i class="devicon-php-plain colored"></i> 
-<i class="devicon-angularjs-plain colored"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+          
           
 
